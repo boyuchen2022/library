@@ -41,7 +41,7 @@ v     数据库工具:mysql5.5 +Navicat Premium 12
 
 后端: Servlet+JSP+MySql   
 
-![web服务器2](file:///C:\Users\weihua\AppData\Local\Temp\msohtmlclip1\01\clip_image002.jpg)      
+![web服务器2](http://101.201.68.103:8080/photo/clip_image001.jpg)      
 
 ## 1.5定义
 
@@ -96,21 +96,27 @@ DBUtils：Commons DbUtils是[Apache](https://baike.baidu.com/item/Apache/8512995
 
 **用户登录流程图**
 
-![img](file:///C:\Users\weihua\AppData\Local\Temp\msohtmlclip1\01\clip_image004.jpg)
+![img](http://101.201.68.103:8080/photo/clip_image003.png)
 
 **借阅图书流程图**
 
-![img](file:///C:\Users\weihua\AppData\Local\Temp\msohtmlclip1\01\clip_image006.jpg)
+![img](http://101.201.68.103:8080/photo/clip_image006.jpg)
+
+
 
 **归还图书流程图**
 
-![img](file:///C:\Users\weihua\AppData\Local\Temp\msohtmlclip1\01\clip_image008.jpg)
+![img](http://101.201.68.103:8080/photo/clip_image008.jpg)
+
+
 
  
 
 ## 2.3 E-R图
 
-![img](file:///C:\Users\weihua\AppData\Local\Temp\msohtmlclip1\01\clip_image010.jpg)
+![img](http://101.201.68.103:8080/photo/clip_image009.png)
+
+
 
 ## 2.4 开发流程
 
