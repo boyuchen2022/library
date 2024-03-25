@@ -38,7 +38,7 @@ v     数据库工具:mysql5.5 +Navicat Premium 12
 
 后端: Servlet+JSP+MySql   
 
-![web服务器2](D:\桌面2\README (2).assets/clip_image002.jpg)      
+![](http://image.cbyyy.cn/img/1.jpg)      
 
 ## 1.5定义
 
@@ -93,21 +93,23 @@ DBUtils：Commons DbUtils是[Apache](https://baike.baidu.com/item/Apache/8512995
 
 **用户登录流程图**
 
-![img](D:\桌面2\README (2).assets/clip_image004.jpg)
+![](http://image.cbyyy.cn/img/2.png)
+
+
 
 **借阅图书流程图**
 
-![img](D:\桌面2\README (2).assets/clip_image006.jpg)
+![](http://image.cbyyy.cn/img/6.png)
 
 **归还图书流程图**
 
-![img](D:\桌面2\README (2).assets/clip_image008.jpg)
+![](http://image.cbyyy.cn/img/4.png)
 
  
 
 ## 2.3 E-R图
 
-![img](D:\桌面2\README (2).assets/clip_image010.jpg)
+![](http://image.cbyyy.cn/img/5.png)
 
 ## 2.4 开发流程
 
